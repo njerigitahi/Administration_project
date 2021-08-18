@@ -4,7 +4,7 @@ This is a inventory management system
 # How to Setup
 1. Clone Project
 ```
-git clone https://github.com/sajib1066/inventory-management.git
+git clone https://github.com/njerigitahi/Administration_project.git
 ```
 
 2. Go To Project Directory
